@@ -1,5 +1,3 @@
-# README
-
 Script Python pour rechercher un texte dans tous les fichiers `.xlsb` d'un dossier et de ses sous-dossiers, sur toutes les feuilles.
 
 ## Prérequis
