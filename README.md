@@ -1,4 +1,4 @@
-python -m pip install pyxlsb
+python -m pip install pyxlsb pywin32
 
 Exemple d’utilisation :
 python chercher_xlsb.py "mon mot" "C:\MesDossiers"
